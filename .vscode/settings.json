@@ -4,5 +4,7 @@
     "source.fixAll": true
   },
   "editor.formatOnSave": true,
-  "editor.formatOnPaste": false
+  "editor.formatOnPaste": false,
+  "cSpell.language": "en-GB",
+  "cSpell.words": []
 }
