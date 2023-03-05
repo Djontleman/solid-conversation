@@ -8,5 +8,5 @@
     "sourceType": "module"
   },
   "plugins": ["solid"],
-  "extends": ["eslint:recommended", "plugin:solid/typescript"]
+  "extends": ["eslint:recommended", "plugin:solid/typescript", "prettier"]
 }
