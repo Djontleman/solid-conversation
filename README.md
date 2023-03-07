@@ -1,1 +1,1 @@
-# SolidJS Template with Typescript, Vite, ESLint and Prettier
+# Solid Conversation Generator

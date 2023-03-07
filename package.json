@@ -1,7 +1,7 @@
 {
-  "name": "solid-template",
+  "name": "solid-conversation",
   "version": "0.1.0",
-  "description": "",
+  "description": "An app for generating very solid conversations",
   "license": "MIT",
   "engines": {
     "node": ">=16",
